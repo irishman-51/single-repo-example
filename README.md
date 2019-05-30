@@ -2,3 +2,6 @@
 
 ## Description
 This repo is used for showing people how to contribute to a project as well as some best practices
+Here are  made to this file...
+a) change 1
+b) Change 2
